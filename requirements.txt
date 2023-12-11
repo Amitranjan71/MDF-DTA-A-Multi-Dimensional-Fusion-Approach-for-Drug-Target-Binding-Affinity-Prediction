@@ -6,7 +6,6 @@ Scikit-learn
 keras
 deepchem
 bioVec
-
 tensorflow
 lifelines
 mol2vec
